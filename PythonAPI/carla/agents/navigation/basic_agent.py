@@ -11,6 +11,7 @@ It can also make use of the global route planner to follow a specified route
 
 # 导入CARLA库，用于与CARLA仿真环境进行交互
 import carla
+#
  
 # 从shapely.geometry导入Polygon类，用于处理多边形几何形状
 from shapely.geometry import Polygon
